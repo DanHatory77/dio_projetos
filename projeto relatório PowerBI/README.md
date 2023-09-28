@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Relatório criado com o intuito de organizar dos dados e exibi-los de forma organizada e segmentada por meio da ferramenta de BI PowerBI.
+Relatório criado com o intuito de organizar os dados e exibi-los de forma organizada e segmentada por meio da ferramenta de BI PowerBI.
 O relatório tem como foco principal transformar os dados de vendas e lucro fornecidas pela empresa em informações valiosas a respeito das movimentações monetárias da empresa.
 
 ## Alguns tópicos analizados no relatório
